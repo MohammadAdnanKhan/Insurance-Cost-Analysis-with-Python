@@ -1,2 +1,2 @@
 # python-project-DA
-My first project in Data Analysis
+Data Analyst Project at a Real Estate Investment Trust
